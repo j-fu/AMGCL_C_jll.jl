@@ -17,9 +17,9 @@ os = "linux"
     url = "https://github.com/j-fu/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+1/AMGCL_C.v0.1.2.x86_64-linux-gnu.tar.gz"
 [[AMGCL_C]]
 arch = "x86_64"
-git-tree-sha1 = "3217310b08fc3907b749dda0fee87e0d1d2996b1"
+git-tree-sha1 = "46345d84201c8aa0d9713d15297ff188860fad55"
 os = "windows"
 
     [[AMGCL_C.download]]
-    sha256 = "b80113e234957f9c53cb7314e8ca2079ec950340760dd2bdfe781c9da9b6653a"
+    sha256 = "321be8fd54bf4647f4778b3ccf1680d948b671713351ec67678cdb012ccef27d"
     url = "https://github.com/j-fu/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.1.2+1/AMGCL_C.v0.1.2.x86_64-w64-mingw32.tar.gz"
