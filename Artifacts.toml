@@ -5,7 +5,7 @@ os = "macos"
 
     [[AMGCL_C.download]]
     sha256 = "ab4be66d3a69069139942e270e6fef99053daee77229654eaebbfd9a4a9c3373"
-    url = "https://github.com/j-fu/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/j-fu/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+1/AMGCL_C.v0.2.0.x86_64-apple-darwin.tar.gz"
 [[AMGCL_C]]
 arch = "x86_64"
 git-tree-sha1 = "bdce3c06cd31578f08bee96bea913e284ea358cf"
@@ -14,7 +14,7 @@ os = "linux"
 
     [[AMGCL_C.download]]
     sha256 = "f05edf49eca84eb32747ea4937041082dfb0c3efde205a3e60e258fe3b61c22e"
-    url = "https://github.com/j-fu/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.x86_64-linux-gnu.tar.gz"
+    url = "https://github.com/j-fu/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+1/AMGCL_C.v0.2.0.x86_64-linux-gnu.tar.gz"
 [[AMGCL_C]]
 arch = "x86_64"
 git-tree-sha1 = "5baa9002b0d35ef8e71bbc264d66f5e21ac8591d"
@@ -22,4 +22,4 @@ os = "windows"
 
     [[AMGCL_C.download]]
     sha256 = "7b5530f982561ba46201669d217be16bc695851ce182e9b5057b0192e9b6ec6e"
-    url = "https://github.com/j-fu/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+0/AMGCL_C.v0.2.0.x86_64-w64-mingw32.tar.gz"
+    url = "https://github.com/j-fu/AMGCL_C_jll.jl/releases/download/AMGCL_C-v0.2.0+1/AMGCL_C.v0.2.0.x86_64-w64-mingw32.tar.gz"

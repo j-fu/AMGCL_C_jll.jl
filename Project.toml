@@ -1,6 +1,6 @@
 name = "AMGCL_C_jll"
 uuid = "e3ba5bb7-5aef-5326-9a13-9617383dcacb"
-version = "0.2.0+0"
+version = "0.2.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
