@@ -10,7 +10,7 @@ For more details about JLL packages and how to use them, see `BinaryBuilder.jl` 
 
 The tarballs for `AMGCL_C_jll.jl` have been built from these sources:
 
-* git repository: https://github.com/j-fu/amgcl_c.git (revision: `c3f72667c2d3592649b300310cfc918408674f2b`)
+* git repository: https://github.com/j-fu/amgcl_c.git (revision: `dd1bc0c3fd6ec0a294e729a4814d4014eb2c21b3`)
 
 ## Platforms
 
