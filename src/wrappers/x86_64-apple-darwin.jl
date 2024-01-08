@@ -15,7 +15,7 @@ function __init__()
 
     JLLWrappers.@init_library_product(
         libamgcl_c,
-        "lib/libamgcl_c.0.2.0.dylib",
+        "lib/libamgcl_c.0.3.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
